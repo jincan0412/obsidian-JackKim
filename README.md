@@ -1,2 +1,3 @@
 # obsidian-JackKim
-My Obsidian plugin translations (created by obsidian-i18n)
+
+自己仓库、自己翻译
